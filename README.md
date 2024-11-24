@@ -11,6 +11,5 @@
 Diseñar un sistema para gestionar la atención al cliente, incluyendo la
 creación de tickets de soporte y la asignación de estos a los agentes disponibles.
 • Microservicios:
-o Tickets: Creación, actualización y seguimiento de tickets de soporte.
-o Asignación de Agentes: Sistema para asignar tickets a diferentes agentes de
-soporte basados en su disponibilidad
+  - Tickets: Creación, actualización y seguimiento de tickets de soporte.
+  - Asignación de Agentes: Sistema para asignar tickets a diferentes agentes de soporte basados en su disponibilidad
